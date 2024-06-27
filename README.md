@@ -25,7 +25,7 @@ To download and run vroff on Windows using the Microsoft Store go [here](https:/
     sudo dpkg -i vroff.deb
     sudo apt-get install -f
 
-### 5. If there are missing dependencies, you may have to install them manually. When testing in WSL Ubuntu 22.04.3 LTS, the following libraries had to be installed:
+### 5. If running in WSL, additional dependencies may have to be installed, such as:
     sudo apt install libgbm1
     sudo apt install libasound2
 
