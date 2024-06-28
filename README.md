@@ -11,8 +11,8 @@ To download and run vroff on Windows using the Microsoft Store go ...
 
 ## Linux .deb
 ### 1. Download the .deb Package and optionally its signature from the [latest release](https://github.com/wbigert/vroff-releases/releases).
-    wget https://github.com/wbigert/vroff-releases/releases/download/<release_name>/vroff.deb
-    wget https://github.com/wbigert/vroff-releases/releases/download/<release_name>/vroff.deb.sig 
+    wget https://github.com/wbigert/vroff-releases/releases/download/v0.2.0-alpha/vroff.deb
+    wget https://github.com/wbigert/vroff-releases/releases/download/v0.2.0-alpha/vroff.deb.sig 
 
 ### 2. Download and import the public key from this repository (optional, but recommended)
     wget https://github.com/wbigert/vroff-releases/blob/main/public-key.asc
@@ -31,8 +31,8 @@ To download and run vroff on Windows using the Microsoft Store go ...
 
 ## Linux .AppImage
 ### 2. Download the .AppImage and optionally its signature from the [latest release](https://github.com/wbigert/vroff-releases/releases).
-    wget https://github.com/wbigert/vroff-releases/releases/download/v0.1.0-alpha/vroff.AppImage
-    wget https://github.com/wbigert/vroff-releases/releases/download/v0.1.0-alpha/vroff.AppImage.sig
+    wget https://github.com/wbigert/vroff-releases/releases/download/v0.2.0-alpha/vroff.AppImage
+    wget https://github.com/wbigert/vroff-releases/releases/download/v0.2.0-alpha/vroff.AppImage.sig
 
 ### 2. Download and import the public key from the repository (optional, but recommended)
     wget https://github.com/wbigert/vroff-releases/blob/main/public-key.asc
