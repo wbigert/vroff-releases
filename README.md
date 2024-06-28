@@ -6,10 +6,10 @@ vroff is a modern digital office solution developed by TellusTalk AB.
 ## Windows
 To download and run vroff on Windows using the Microsoft Store, go to ... Optionally, download and run ```vroff.exe``` from the [latest release](https://github.com/wbigert/vroff-releases/releases). This executable is not signed, so antivirus programs may raise alarms when installing it.
 
-## Mac Arm64
+## Mac
 To install vroff on Mac, download the .deb file from the [latest release](https://github.com/wbigert/vroff-releases/releases). For Intel-based Macs, use ```vroff_x64.dmg```, else use ```vroff_arm64.dmg``` 
 
-## Linux .deb
+## Linux (.deb)
 ### 1. Download the .deb Package and optionally its signature from the [latest release](https://github.com/wbigert/vroff-releases/releases).
     wget https://github.com/wbigert/vroff-releases/releases/download/v0.2.0-alpha/vroff.deb
     wget https://github.com/wbigert/vroff-releases/releases/download/v0.2.0-alpha/vroff.deb.sig 
@@ -32,7 +32,7 @@ To install vroff on Mac, download the .deb file from the [latest release](https:
 ### 6. Run the program
     /opt/vroff/vroff
 
-## Linux .AppImage
+## Linux (.AppImage)
 ### 1. Download the .AppImage and optionally its signature from the [latest release](https://github.com/wbigert/vroff-releases/releases).
     wget https://github.com/wbigert/vroff-releases/releases/download/v0.2.0-alpha/vroff.AppImage
     wget https://github.com/wbigert/vroff-releases/releases/download/v0.2.0-alpha/vroff.AppImage.sig
