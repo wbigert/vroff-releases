@@ -29,6 +29,9 @@ To download and run vroff on Windows using the Microsoft Store go ...
     sudo apt install libgbm1
     sudo apt install libasound2
 
+### 6. Run the program
+    /opt/vroff/vroff
+
 ## Linux .AppImage
 ### 2. Download the .AppImage and optionally its signature from the [latest release](https://github.com/wbigert/vroff-releases/releases).
     wget https://github.com/wbigert/vroff-releases/releases/download/v0.2.0-alpha/vroff.AppImage
