@@ -7,15 +7,15 @@ vroff is a modern digital office solution developed by TellusTalk AB.
 To download and run vroff on Windows using the Microsoft Store, go to ... Optionally, download and run ```vroff.exe``` from the [latest release](https://github.com/wbigert/vroff-releases/releases). This executable is not signed, so antivirus programs may raise alarms when installing it.
 
 ## Mac
-To install vroff on Mac, download the .deb file from the [latest release](https://github.com/wbigert/vroff-releases/releases). For Intel-based Macs, use ```vroff_x64.dmg```, else use ```vroff_arm64.dmg```
+To install vroff on Mac, download the .dmg file from the [latest release](https://github.com/wbigert/vroff-releases/releases). For Intel-based Macs, use ```vroff_x64.dmg```, else use ```vroff_arm64.dmg```
 
 ## Android & iOS
 To install vroff on Android or iOS, open [https://mvpdev.ebox.nu/vroff/index.html](https://mvpdev.ebox.nu/vroff/index.html) on your phone and open either your browser's settings or tap "Share", and select "Add to Home Screen".
 
 ## Linux (.deb)
 ### 1. Download the .deb Package and optionally its signature from the [latest release](https://github.com/wbigert/vroff-releases/releases).
-    wget https://github.com/wbigert/vroff-releases/releases/download/v0.3.0-alpha/vroff.deb
-    wget https://github.com/wbigert/vroff-releases/releases/download/v0.3.0-alpha/vroff.deb.sig 
+    wget https://github.com/wbigert/vroff-releases/releases/download/v1.0.0/vroff.deb
+    wget https://github.com/wbigert/vroff-releases/releases/download/v1.0.0/vroff.deb.sig 
 
 ### 2. Download and import the public key from this repository (optional, but recommended)
     wget https://github.com/wbigert/vroff-releases/blob/main/public-key.asc
@@ -37,8 +37,8 @@ To install vroff on Android or iOS, open [https://mvpdev.ebox.nu/vroff/index.htm
 
 ## Linux (.AppImage)
 ### 1. Download the .AppImage and optionally its signature from the [latest release](https://github.com/wbigert/vroff-releases/releases).
-    wget https://github.com/wbigert/vroff-releases/releases/download/v0.3.0-alpha/vroff.AppImage
-    wget https://github.com/wbigert/vroff-releases/releases/download/v0.3.0-alpha/vroff.AppImage.sig
+    wget https://github.com/wbigert/vroff-releases/releases/download/v1.0.0/vroff.AppImage
+    wget https://github.com/wbigert/vroff-releases/releases/download/v1.0.0/vroff.AppImage.sig
 
 ### 2. Download and import the public key from the repository (optional, but recommended)
     wget https://github.com/wbigert/vroff-releases/blob/main/public-key.asc
