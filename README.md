@@ -10,7 +10,7 @@ To download and run vroff on Windows using the Microsoft Store, go to ... Option
 To install vroff on Mac, download the .dmg file from the [latest release](https://github.com/wbigert/vroff-releases/releases). For Intel-based Macs, use ```vroff_x64.dmg```, else use ```vroff_arm64.dmg```
 
 ## Android & iOS
-To install vroff on Android or iOS, open [https://mvpdev.ebox.nu/vroff/index.html](https://mvpdev.ebox.nu/vroff/index.html) on your phone and open either your browser's settings or tap "Share", and select "Add to Home Screen".
+To install vroff on Android or iOS, open [https://lab.vroff.com](https://lab.vroff.com) on your phone and open either your browser's settings or tap "Share", and select "Add to Home Screen".
 
 ## Linux (.deb)
 ### 1. Download the .deb Package and optionally its signature from the [latest release](https://github.com/wbigert/vroff-releases/releases).
