@@ -18,7 +18,8 @@ To install vroff on Android or iOS, open [https://lab.vroff.com](https://lab.vro
     wget https://github.com/wbigert/vroff-releases/releases/download/v1.0.0/vroff.deb.sig 
 
 ### 2. Download and import the public key from this repository (optional, but recommended)
-    wget https://github.com/wbigert/vroff-releases/blob/main/public-key.asc
+    wget https://raw.githubusercontent.com/wbigert/vroff-releases/main/public-key.asc
+
     gpg --import public-key.asc
 
 ### 3. Verify the signature (optional, but recommended)
@@ -41,7 +42,7 @@ To install vroff on Android or iOS, open [https://lab.vroff.com](https://lab.vro
     wget https://github.com/wbigert/vroff-releases/releases/download/v1.0.0/vroff.AppImage.sig
 
 ### 2. Download and import the public key from the repository (optional, but recommended)
-    wget https://github.com/wbigert/vroff-releases/blob/main/public-key.asc
+    wget https://raw.githubusercontent.com/wbigert/vroff-releases/main/public-key.asc
     gpg --import public-key.asc
 
 ### 3. Verify the signature (optional, but recommended)
